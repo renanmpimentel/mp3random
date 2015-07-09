@@ -1,0 +1,19 @@
+{
+  "name": "mp3random",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^2.2.20",
+    "node-webkit-builder": "^1.0.12"
+  },
+  "dependencies": {
+    "gulp-util": "^2.2.14"
+  },
+  "main": "index.html",
+  "window": {
+    "toolbar": true,
+    "width": 640,
+    "height": 480
+  },
+  "single-instance": false
+}

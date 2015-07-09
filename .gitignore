@@ -1,0 +1,4 @@
+/build/*
+/cache/*
+/nbproject/*
+/node_modules/*
